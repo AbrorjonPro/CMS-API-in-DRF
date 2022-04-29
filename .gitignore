@@ -1,0 +1,16 @@
+venv/
+env/
+.env
+.vscode/
+.idea/
+migrations/
+db.sqlite3
+media/
+node_modules/
+package.json
+package-lock.json
+build/
+build_admin/
+__pycache__/
+static/
+build.zip
